@@ -1,0 +1,16 @@
+Due: 24 April
+
+Finish your solution and your algorithm analysis; finish your report. 
+Put your final product in the stage5 folder with the following information: 
+–	(1 point) team.txt
+–	(3 points) A readme file readme.txt with (1) how the code base is organized, (2) the commands to run your code, 
+  and (3) data set information:  if you use existing datasets to test your solutions,  
+  the readme file should include the link to the existing datasets.
+–	(40 points) Code base containing your code for crawling the data (if there is any), preprocessing the data, 
+  solving the problem, analyzing your solutions, plotting analysis figures, etc.
+  ·	Your Python code should be written for Python version 3.5.2 or higher.
+  ·	Please properly organize your Python code (e.g., create proper classes, modules).
+  ·	If your team created your own datasets, put the datasets in the repository.
+–	(13 points) A 3-5 page report, report.pdf, to include the above content 
+  (motivation, problem definition, solution explanation, data description, result analysis).
+  Report formatting: 1" margins all around, double columns, single space, Times New Roman 10 pt
